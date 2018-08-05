@@ -61,6 +61,10 @@ a>i {
   align-self: center;
 }
 
+a:not(last-of-kind) {
+  margin-right: 0.3em;
+}
+
 @media screen and (max-width: 710px) {
   .container {
     padding: 0 1em;
