@@ -20,6 +20,7 @@ h2 {
 }
 
 h2:last-of-type {
+  margin-top: .5em;
   padding-top: .5em;
   border-top: 1px dashed #333;
 }
