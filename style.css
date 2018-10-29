@@ -15,8 +15,10 @@ h1 {
 }
 
 h2 {
-  margin-top: 0.1em;
+  margin-top: .5em;
   margin-bottom: 0.3em;
+  padding-top: .5em;
+  border-top: 1px dashed #333;
 }
 
 .summary {
