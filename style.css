@@ -15,8 +15,11 @@ h1 {
 }
 
 h2 {
-  margin-top: .5em;
+  margin-top: .1em;
   margin-bottom: 0.3em;
+}
+
+h2:last-of-type {
   padding-top: .5em;
   border-top: 1px dashed #333;
 }
